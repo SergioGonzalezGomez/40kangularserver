@@ -29,7 +29,7 @@ app.use((req, res, next) => {
 })
 
 app.use(cors({
-    origin: ['http://localhost:3000', 'http://localhost:4200'],
+    origin: ['http://localhost:3000', 'http://localhost:4200', "https://40kangular.vercel.app"],
     credentials: true
 }))
 
