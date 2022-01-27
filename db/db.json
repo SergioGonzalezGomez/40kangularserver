@@ -1,0 +1,551 @@
+{
+    "legions": [
+
+        {
+            "id": "61e44a6521f6ace999c1f073",
+            "name": "Dark Angels",
+            "description": "Orders of knights",
+            "number": "I",
+            "primarch": "Lion El'Johnson",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350759/40k/Lazarus_Dark_Angels_vj2zor.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f074",
+            "name": "Unknown",
+            "description": "Deleted from the Imperial Records",
+            "number": "II",
+            "primarch": "Unknown",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350772/40k/Missing_nyrfgx.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f075",
+            "name": "Emperor's Children",
+            "description": "The perfect Legion",
+            "number": "III",
+            "primarch": "Fulgrim",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350750/40k/hijosdelemperador_emj1o5.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f076",
+            "name": "Iron Warriors",
+            "description": "The best siegers",
+            "number": "IV",
+            "primarch": "Perturabo",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350745/40k/guerrerosdehierro_hlhzrf.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f077",
+            "name": "White Scars",
+            "description": "The best riders of the steppes",
+            "number": "V",
+            "primarch": "Jaghatai Khan",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350739/40k/ef2880b4c8c7a113866eb8657a94acfd_nbsaww.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f078",
+            "name": "Space Wolves",
+            "description": "The executioners of the Emperor",
+            "number": "VI",
+            "primarch": "Leman Russ",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350790/40k/spacewolves_qixh9x.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f079",
+            "name": "Imperial Fists",
+            "description": "Defenders of Terra",
+            "number": "VII",
+            "primarch": "Rogal Dorn",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350754/40k/imperialfists_saiah7.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07a",
+            "name": "Night Lords",
+            "description": "Haunters of the dark",
+            "number": "VIII",
+            "primarch": "Konrad Curze",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350775/40k/nightlords_lyagrp.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07b",
+            "name": "Blood Angels",
+            "description": "Blood Angels",
+            "number": "IX",
+            "primarch": "Sanguinius",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350786/40k/sangrientos_hzvezr.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07c",
+            "name": "Iron Hands",
+            "description": "The flesh is weak",
+            "number": "X",
+            "primarch": "Ferrus Manus",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350766/40k/manosdehierro_h9fevn.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07d",
+            "name": "Unknown",
+            "description": "Deleted from the Imperial Records",
+            "number": "XI",
+            "primarch": "Unknown",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350772/40k/Missing_nyrfgx.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07e",
+            "name": "World Eaters",
+            "description": "The most barbaric slashers, blood for the Primarch",
+            "number": "XII",
+            "primarch": "Angron",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350733/40k/devoradoresdemundos_ccmf9z.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f07f",
+            "name": "Ultramarines",
+            "description": "The best strategos, follow the Codex Astartes",
+            "number": "XIII",
+            "primarch": "Roboute Guilliman",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350794/40k/ultramarines_upxw1k.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f080",
+            "name": "Death Guard",
+            "description": "Known as the Dusk Raiders, the best fighters in the worst situations",
+            "number": "XIV",
+            "primarch": "Mortarion",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350729/40k/deathguard_vwscut.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f081",
+            "name": "Thousand Sons",
+            "description": "Wisdom before strength, knowledge is the best weapon",
+            "number": "XV",
+            "primarch": "Magnus The Red",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350769/40k/milhijos_kkgaox.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f082",
+            "name": "Luna Wolves",
+            "description": "Renamed as the Sons of Horus, and the Black Legion after the Horus Heresy",
+            "number": "XVI",
+            "primarch": "Horus Lupercal",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350763/40k/lunawolves_xfjb8m.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f083",
+            "name": "Word Bearers",
+            "description": "The heralds of the Emperor, faith is the best weapon",
+            "number": "XVII",
+            "primarch": "Lorgar Aurelian",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350803/40k/wordbearers_hsbwwd.png",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f084",
+            "name": "Salamanders",
+            "description": "Purge them with fire",
+            "number": "XVIII",
+            "primarch": "Vulkan",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350782/40k/salamandras_e1o8kb.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f085",
+            "name": "Raven Guard",
+            "description": "Attack from the dark",
+            "number": "XIX",
+            "primarch": "Corvus Corax",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350778/40k/ravenguard_pgjuwm.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e44a6521f6ace999c1f086",
+            "name": "Alpha Legion",
+            "description": "Information is power, you don't even know what is real",
+            "number": "XX",
+            "primarch": "Alpharius Omegon",
+            "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350723/40k/alpha_nccyaf.jpg",
+            "__v": 0
+        }
+    
+    ],
+    "battles": [
+
+        {
+            "id": "61e454e40250517270164e16",
+            "name": "Battle of Isstvan V",
+            "year": "M31",
+            "place": "Segmentum Obscurus/Subsector: Unknown/System: Istvaan/Planet: Istvaan V",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f075",
+                    "name": "Emperor's Children",
+                    "description": "The perfect Legion",
+                    "number": "III",
+                    "primarch": "Fulgrim",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350750/40k/hijosdelemperador_emj1o5.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f076",
+                    "name": "Iron Warriors",
+                    "description": "The best siegers",
+                    "number": "IV",
+                    "primarch": "Perturabo",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350745/40k/guerrerosdehierro_hlhzrf.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07a",
+                    "name": "Night Lords",
+                    "description": "Haunters of the dark",
+                    "number": "VIII",
+                    "primarch": "Konrad Curze",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350775/40k/nightlords_lyagrp.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07e",
+                    "name": "World Eaters",
+                    "description": "The most barbaric slashers, blood for the Primarch",
+                    "number": "XII",
+                    "primarch": "Angron",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350733/40k/devoradoresdemundos_ccmf9z.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f080",
+                    "name": "Death Guard",
+                    "description": "Known as the Dusk Raiders, the best fighters in the worst situations",
+                    "number": "XIV",
+                    "primarch": "Mortarion",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350729/40k/deathguard_vwscut.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f082",
+                    "name": "Luna Wolves",
+                    "description": "Renamed as the Sons of Horus, and the Black Legion after the Horus Heresy",
+                    "number": "XVI",
+                    "primarch": "Horus Lupercal",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350763/40k/lunawolves_xfjb8m.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f083",
+                    "name": "Word Bearers",
+                    "description": "The heralds of the Emperor, faith is the best weapon",
+                    "number": "XVII",
+                    "primarch": "Lorgar Aurelian",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350803/40k/wordbearers_hsbwwd.png",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f086",
+                    "name": "Alpha Legion",
+                    "description": "Information is power, you don't even know what is real",
+                    "number": "XX",
+                    "primarch": "Alpharius Omegon",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350723/40k/alpha_nccyaf.jpg",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f07c",
+                    "name": "Iron Hands",
+                    "description": "The flesh is weak",
+                    "number": "X",
+                    "primarch": "Ferrus Manus",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350766/40k/manosdehierro_h9fevn.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f084",
+                    "name": "Salamanders",
+                    "description": "Purge them with fire",
+                    "number": "XVIII",
+                    "primarch": "Vulkan",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350782/40k/salamandras_e1o8kb.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f085",
+                    "name": "Raven Guard",
+                    "description": "Attack from the dark",
+                    "number": "XIX",
+                    "primarch": "Corvus Corax",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350778/40k/ravenguard_pgjuwm.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Traitor Legions",
+            "img": "https://wh40k.lexicanum.com/mediawiki/images/2/2f/Fulgrim_clean.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e17",
+            "name": "Burning of Prospero",
+            "year": "M31",
+            "place": "Segmentum Unknown/Subsector: Unknown/System: Prospero/Planet: Prospero",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f081",
+                    "name": "Thousand Sons",
+                    "description": "Wisdom before strength, knowledge is the best weapon",
+                    "number": "XV",
+                    "primarch": "Magnus The Red",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350769/40k/milhijos_kkgaox.jpg",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f078",
+                    "name": "Space Wolves",
+                    "description": "The punishers of the Emperor",
+                    "number": "VI",
+                    "primarch": "Leman Russ",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350790/40k/spacewolves_qixh9x.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Loyalist Legions",
+            "img": "https://images2.alphacoders.com/503/503133.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e18",
+            "name": "Diamat",
+            "year": "M31",
+            "place": "Ultima Segmentum/Subsector: Unknown/System: Tanagra/Planet: Diamat",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f082",
+                    "name": "Luna Wolves",
+                    "description": "Renamed as the Sons of Horus, and the Black Legion after the Horus Heresy",
+                    "number": "XVI",
+                    "primarch": "Horus Lupercal",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350763/40k/lunawolves_xfjb8m.jpg",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f073",
+                    "name": "Dark Angels",
+                    "description": "Orders of knights",
+                    "number": "I",
+                    "primarch": "Lion El'Johnson",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350759/40k/Lazarus_Dark_Angels_vj2zor.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Loyalist Legions",
+            "img": "https://spalanz.files.wordpress.com/2021/03/fallen-angels.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e19",
+            "name": "First Siege of Hydra Cordatus",
+            "year": "M31",
+            "place": "Segmentum Obscurus/Subsector: Unknown/System: Hydra Cordatus/Planet: Hydra Cordatus",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f076",
+                    "name": "Iron Warriors",
+                    "description": "The best siegers",
+                    "number": "IV",
+                    "primarch": "Perturabo",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350745/40k/guerrerosdehierro_hlhzrf.jpg",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f079",
+                    "name": "Imperial Fists",
+                    "description": "Defenders of Terra",
+                    "number": "VII",
+                    "primarch": "Rogal Dorn",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350754/40k/imperialfists_saiah7.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Traitor Legions",
+            "img": "https://www.belloflostsouls.net/wp-content/uploads/2016/12/honsou-horz.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e1a",
+            "name": "Battle of the Furious Abyss",
+            "year": "M31",
+            "place": "Starship Furious Abyss",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f083",
+                    "name": "Word Bearers",
+                    "description": "The heralds of the Emperor, faith is the best weapon",
+                    "number": "XVII",
+                    "primarch": "Lorgar Aurelian",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350803/40k/wordbearers_hsbwwd.png",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f081",
+                    "name": "Thousand Sons",
+                    "description": "Wisdom before strength, knowledge is the best weapon",
+                    "number": "XV",
+                    "primarch": "Magnus The Red",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350769/40k/milhijos_kkgaox.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07f",
+                    "name": "Ultramarines",
+                    "description": "The best strategos, follow the Codex Astartes",
+                    "number": "XIII",
+                    "primarch": "Roboute Guilliman",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350794/40k/ultramarines_upxw1k.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07e",
+                    "name": "World Eaters",
+                    "description": "The most barbaric slashers, blood for the Primarch",
+                    "number": "XII",
+                    "primarch": "Angron",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350733/40k/devoradoresdemundos_ccmf9z.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f078",
+                    "name": "Space Wolves",
+                    "description": "The punishers of the Emperor",
+                    "number": "VI",
+                    "primarch": "Leman Russ",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350790/40k/spacewolves_qixh9x.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Imperial Pyrrhic Victory",
+            "img": "https://spalanz.files.wordpress.com/2016/04/battle-for-the-abyss.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e1b",
+            "name": "Battle of Calth",
+            "year": "M31",
+            "place": "Ultima Segmentum/Subsector: Ultramar/System: Veridia/Planet: Calth",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f083",
+                    "name": "Word Bearers",
+                    "description": "The heralds of the Emperor, faith is the best weapon",
+                    "number": "XVII",
+                    "primarch": "Lorgar Aurelian",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350803/40k/wordbearers_hsbwwd.png",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f07f",
+                    "name": "Ultramarines",
+                    "description": "The best strategos, follow the Codex Astartes",
+                    "number": "XIII",
+                    "primarch": "Roboute Guilliman",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350794/40k/ultramarines_upxw1k.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Imperial Pyrrhic Victory",
+            "img": "https://phoenixthemaster.files.wordpress.com/2016/12/horus-heresy2.jpg",
+            "__v": 0
+        },
+        {
+            "id": "61e454e40250517270164e1c",
+            "name": "Siege of Baal",
+            "year": "M31",
+            "place": "Ultima Segmentum/Subsector: Unknown/System: Baal/Planet: Baal",
+            "traitorlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f082",
+                    "name": "Luna Wolves",
+                    "description": "Renamed as the Sons of Horus, and the Black Legion after the Horus Heresy",
+                    "number": "XVI",
+                    "primarch": "Horus Lupercal",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350763/40k/lunawolves_xfjb8m.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f075",
+                    "name": "Emperor's Children",
+                    "description": "The perfect Legion",
+                    "number": "III",
+                    "primarch": "Fulgrim",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350750/40k/hijosdelemperador_emj1o5.jpg",
+                    "__v": 0
+                }
+            ],
+            "loyalistlegions": [
+                {
+                    "id": "61e44a6521f6ace999c1f079",
+                    "name": "Imperial Fists",
+                    "description": "Defenders of Terra",
+                    "number": "VII",
+                    "primarch": "Rogal Dorn",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350754/40k/imperialfists_saiah7.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07b",
+                    "name": "Blood Angels",
+                    "description": "Blood Angels",
+                    "number": "IX",
+                    "primarch": "Sanguinius",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350786/40k/sangrientos_hzvezr.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f07c",
+                    "name": "Iron Hands",
+                    "description": "The flesh is weak",
+                    "number": "X",
+                    "primarch": "Ferrus Manus",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350766/40k/manosdehierro_h9fevn.jpg",
+                    "__v": 0
+                },
+                {
+                    "id": "61e44a6521f6ace999c1f084",
+                    "name": "Salamanders",
+                    "description": "Purge them with fire",
+                    "number": "XVIII",
+                    "primarch": "Vulkan",
+                    "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350782/40k/salamandras_e1o8kb.jpg",
+                    "__v": 0
+                }
+            ],
+            "victory": "Imperial Pyrrhic Victory",
+            "img": "https://www.belloflostsouls.net/wp-content/uploads/2017/12/60030101038_CodexBloodAngelsENG02-1.jpg",
+            "__v": 0
+        }
+    
+    ]
+}
